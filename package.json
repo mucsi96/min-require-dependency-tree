@@ -1,0 +1,28 @@
+{
+  "name": "min-require-dependency-tree",
+  "version": "0.0.1",
+  "description": "Tool for creating min-require (commonjs) modules dependecy graph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mucsi96/min-require-dependency-tree.git"
+  },
+  "keywords": [
+    "dependecy",
+    "tree",
+    "commonjs"
+  ],
+  "author": "mucsi96",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mucsi96/min-require-dependency-tree/issues"
+  },
+  "homepage": "https://github.com/mucsi96/min-require-dependency-tree",
+  "dependencies": {
+    "detective": "^3.1.0",
+    "glob": "^4.0.0"
+  }
+}
